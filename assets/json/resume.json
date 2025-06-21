@@ -24,6 +24,15 @@
   },
   "experience": [
     {
+      "name": "Centre National de la Recherche Scientifique (CNRS)",
+      "position": "Doctoral Research",
+      "url": "https://www.cnrs.fr/en",
+      "startDate": "2025-09-01",
+      "endDate": "2028-08-30",
+      "summary": "Ongoing",
+      "highlights": [""]
+    },
+    {
       "name": "NewIT Services",
       "position": "Data Scientist",
       "url": "https://i-new.it/",

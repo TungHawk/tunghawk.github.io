@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
@@ -398,16 +398,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-honor-to-be-awarded-the-labex-bézout-fellowship-for-the-dual-master-s-degree-at-université-gustave-eiffel",
+          title: 'Honor to be awarded the Labex - Bézout fellowship for the dual Master’s...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-honor-to-be-awarded-a-phd-fellowship-from-3ia-côte-d-azur-to-work-at-cnrs",
+          title: 'Honor to be awarded a PhD fellowship from 3iA Côte d’Azur to work...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',

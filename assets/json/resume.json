@@ -31,6 +31,24 @@
       "endDate": "2025-07-05",
       "summary": "Working on optimizing the supply - demand systems.",
       "highlights": ["Contributed to construct the Stock - Acquisition Management (SAM) model"]
+    },
+    {
+      "name": "Laboratoire d'Informatique Gaspard-Monge (LIGM)",
+      "position": "Research intern",
+      "url": "https://siteigm.univ-mlv.fr/home/",
+      "startDate": "2024-04-01",
+      "endDate": "2024-08-30",
+      "summary": "Working on Optimal Transport and the Sinkhorn barycenter problems.",
+      "highlights": ["Identify the gaps between the theory and practice of Sinkhorn barycenter problems.", "Attempt to propose an improvement of the method."]
+    },
+    {
+      "name": "INSA Rennes",
+      "position": "Research intern",
+      "url": "https://www.insa-rennes.fr/index.html",
+      "startDate": "2023-03-01",
+      "endDate": "2023-06-30",
+      "summary": "Working on the numerical methods for stiff Ordinary Differential Equations (ODEs).",
+      "highlights": ["Successfully developed a new optimization-based approach to solve stiff ODEs."]
     }
   ],
   "volunteer": [
@@ -47,15 +65,37 @@
   ],
   "education": [
     {
-      "institution": "PhD",
-      "location": "3iA Côte d'Azur - University of Côte d'Azur",
+      "institution": "Doctor of Philosophy",
+      "location": "3iA Côte d'Azur",
       "url": "https://3ia.univ-cotedazur.eu/",
       "area": "Applied Mathematics and Computer Science",
-      "studyType": "PhD",
+      "studyType": "Formal training (along side research at CNRS) at the doctoral level",
       "startDate": "2025-09-01",
       "endDate": "2028-08-30",
       "score": "10",
-      "courses": ["Optimization, Machine Learning"]
+      "courses": ["Optimization","Machine Learning"]
+    },
+    {
+      "institution": "Dual Master's Degree",
+      "location": "Université Gustave Eiffel",
+      "url": "https://www.univ-gustave-eiffel.fr/en/",
+      "area": "Applied Mathematics and Computer Science",
+      "studyType": "",
+      "startDate": "2023-09-06",
+      "endDate": "2024-08-30",
+      "score": "10",
+      "courses": ["Optimization","Statistics","Geometry (Graph theory)","Data Science","Algorithms and Complexity"]
+    },
+    {
+      "institution": "Master's degree",
+      "location": "Université de Rennes",
+      "url": "https://www.univ-rennes.fr/en/",
+      "area": "Applied Mathematics",
+      "studyType": "",
+      "startDate": "2025-09-01",
+      "endDate": "2028-08-30",
+      "score": "10",
+      "courses": ["Optimization","Statistics","Numerical Analysis","High Performance Computing"]
     }
   ],
   "awards": [

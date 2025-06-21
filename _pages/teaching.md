@@ -11,8 +11,7 @@ nav_order: 6
 
 Organize your courses by years, topics, or universities, however you like! -->
 
-Teaching assistant, Université Côte d'Azur (2025 - 2028)
------
+**Teaching assistant**, Université Côte d'Azur (2025 - 2028)
 - Subject 1
 - Subject 2
 

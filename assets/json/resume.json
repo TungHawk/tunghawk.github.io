@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Thanh Tung NGUYEN",
+    "label": "Data Scientist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "tungnguyen1951999@gmail.com",
+    "phone": "+84 938 721 033",
+    "url": "https://tunghawk.github.io/",
+    "summary": "A Data Scientist with an interest in Optimization and Machine Learning",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -17,20 +17,20 @@
     "profiles": [
       {
         "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "username": "TungNguyen1905",
+        "url": "https://x.com/TungNguyen1905"
       }
     ]
   },
-  "work": [
+  "experience": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "NewIT Services",
+      "position": "Data Scientist",
+      "url": "https://i-new.it/",
+      "startDate": "2025-03-01",
+      "endDate": "2025-07-05",
+      "summary": "Working on optimizing the supply - demand systems.",
+      "highlights": ["Contributed to construct the Stock - Acquisition Management (SAM) model"]
     }
   ],
   "volunteer": [
@@ -47,24 +47,24 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "PhD",
+      "location": "3iA Côte d'Azur - University of Côte d'Azur",
+      "url": "https://3ia.univ-cotedazur.eu/",
+      "area": "Applied Mathematics and Computer Science",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "startDate": "2025-09-01",
+      "endDate": "2028-08-30",
       "score": "10",
-      "courses": ["Theory of Relativity"]
+      "courses": ["Optimization, Machine Learning"]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Labex -Bézout fellowship",
+      "date": "2023-06-25",
+      "awarder": "Labex - Bézout Academic committee",
+      "url": "https://labex-bezout.fr/masters-scholarships/",
+      "summary": "Every year since 2012, the Bézout Labex offers mobility scholarships for outstanding students who wish to study at the master’s level in University Paris-Est in an integrated program combining mathematics and computer science."
     }
   ],
   "certificates": [
@@ -151,7 +151,7 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Vietnamese",
       "fluency": "Native speaker",
       "icon": ""
     },
@@ -163,15 +163,19 @@
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Applied Mathematics",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Optimization",
+        "Statistics"
+      ]
+    },
+    {
+      "name": "Machine Learning",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Safty Machine Learning",
+        "Federated Learning"
       ]
     }
   ],

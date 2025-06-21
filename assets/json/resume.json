@@ -39,7 +39,7 @@
       "startDate": "2024-04-01",
       "endDate": "2024-08-30",
       "summary": "Working on Optimal Transport and the Sinkhorn barycenter problems.",
-      "highlights": ["Identify the gaps between the theory and practice of Sinkhorn barycenter problems.", "Attempt to propose an improvement of the method."]
+      "highlights": ["Identify the gaps between the theory and practice of the Debiased Sinkhorn barycenter method proposed by [H.Janati et al., Neurips2020].", "Attempt to propose an improvement of the method."]
     },
     {
       "name": "INSA Rennes",
@@ -65,35 +65,35 @@
   ],
   "education": [
     {
-      "institution": "Doctor of Philosophy",
-      "location": "3iA Côte d'Azur",
+      "institution": "3iA Côte d'Azur",
+      "location": "Nice, France",
       "url": "https://3ia.univ-cotedazur.eu/",
       "area": "Applied Mathematics and Computer Science",
-      "studyType": "Formal training (along side research at CNRS) at the doctoral level",
+      "studyType": "Doctor of Philosophy",
       "startDate": "2025-09-01",
       "endDate": "2028-08-30",
       "score": "10",
       "courses": ["Optimization","Machine Learning"]
     },
     {
-      "institution": "Dual Master's Degree",
-      "location": "Université Gustave Eiffel",
+      "institution": "Université Gustave Eiffel",
+      "location": "Champs-sur-Marne, France",
       "url": "https://www.univ-gustave-eiffel.fr/en/",
       "area": "Applied Mathematics and Computer Science",
-      "studyType": "",
+      "studyType": "Dual Master's Degree",
       "startDate": "2023-09-06",
       "endDate": "2024-08-30",
       "score": "10",
       "courses": ["Optimization","Statistics","Geometry (Graph theory)","Data Science","Algorithms and Complexity"]
     },
     {
-      "institution": "Master's degree",
-      "location": "Université de Rennes",
+      "institution": "Université de Rennes",
+      "location": "Rennes, France",
       "url": "https://www.univ-rennes.fr/en/",
       "area": "Applied Mathematics",
-      "studyType": "",
-      "startDate": "2025-09-01",
-      "endDate": "2028-08-30",
+      "studyType": "Master's degree",
+      "startDate": "2022-07-01",
+      "endDate": "2023-06-30",
       "score": "10",
       "courses": ["Optimization","Statistics","Numerical Analysis","High Performance Computing"]
     }

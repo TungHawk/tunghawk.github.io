@@ -3,9 +3,9 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: You
-middle_name: R.
-last_name: Name
+first_name: Tung
+middle_name: Thanh
+last_name: NGUYEN
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -633,11 +633,11 @@ jsonresume:
   - work
   - education
   - publications
-  - projects
-  - volunteer
+  # - projects
+  # - volunteer
   - awards
-  - certificates
+  # - certificates
   - skills
   - languages
   - interests
-  - references
+  # - references

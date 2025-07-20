@@ -82,7 +82,7 @@
       "startDate": "2025-09-01",
       "endDate": "2028-08-30",
       "score": "10",
-      "courses": ["Optimization","Machine Learning"]
+      "courses": ["Teaching assistant","Study several courses related to Optimization and Machine Learning"]
     },
     {
       "institution": "Université Gustave Eiffel",
@@ -93,7 +93,7 @@
       "startDate": "2023-09-06",
       "endDate": "2024-08-30",
       "score": "10",
-      "courses": ["Optimization","Statistics","Geometry (Graph theory)","Data Science","Algorithms and Complexity"]
+      "courses": ["Grade: High honors","Courses: Optimization, Statistics, Geometry (Graph theory), Data Science, Algorithms and Complexity"]
     },
     {
       "institution": "Université de Rennes",
@@ -104,7 +104,7 @@
       "startDate": "2022-07-01",
       "endDate": "2023-06-30",
       "score": "10",
-      "courses": ["Optimization","Statistics","Numerical Analysis","High Performance Computing"]
+      "courses": ["Grade: Highest honors","Courses: Optimization, Statistics, Numerical Analysis, High Performance Computing"]
     },
     {
       "institution": "Ho Chi Minh City University of Education (HCMUE)",
@@ -114,7 +114,8 @@
       "studyType": "Bachelor degree",
       "startDate": "2017-08-01",
       "endDate": "2021-06-30",
-      "score": "10"
+      "score": "10",
+      "courses": ["Grade: Highest honors"]
     }
   ],
   "awards": [

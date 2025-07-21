@@ -38,8 +38,8 @@
       "url": "https://i-new.it/",
       "startDate": "2025-03-01",
       "endDate": "2025-07-05",
-      "summary": "Working on optimizing the supply - demand systems.",
-      "highlights": ["Contributed to construct the Stock - Acquisition Management (SAM) model"]
+      "summary": "Conducted operations research to enhance supply chain efficiency through data-driven solutions.",
+      "highlights": ["Designed and implemented the Stock - Acquisition Management (SAM) model that helps to optimize supply - demand system"]
     },
     {
       "name": "Laboratoire d'Informatique Gaspard-Monge (LIGM)",
@@ -47,8 +47,8 @@
       "url": "https://siteigm.univ-mlv.fr/home/",
       "startDate": "2024-04-01",
       "endDate": "2024-08-30",
-      "summary": "Working on Optimal Transport and the Sinkhorn barycenter problems.",
-      "highlights": ["Identify the gaps between the theory and practice of the Debiased Sinkhorn barycenter method proposed by [H.Janati et al., Neurips2020].", "Attempt to propose an improvement of the method."]
+      "summary": "Investigated Optimal Transport and the Sinkhorn barycenter problems",
+      "highlights": ["Identified discrepancies between the theoretical and practical aspects of the Debiased Sinkhorn barycenter method [H.Janati et al., Neurips2020].", "Proposed enhancements to improve the numerical efficiency."]
     },
     {
       "name": "INSA Rennes",
@@ -56,8 +56,8 @@
       "url": "https://www.insa-rennes.fr/index.html",
       "startDate": "2023-03-01",
       "endDate": "2023-06-30",
-      "summary": "Working on the numerical methods for stiff Ordinary Differential Equations (ODEs).",
-      "highlights": ["Successfully developed a new optimization-based approach to solve stiff ODEs."]
+      "summary": "Developed numerical methods for stiff Ordinary Differential Equations (ODEs).",
+      "highlights": ["Created a novel optimization-based approach to solve stiff ODEs."]
     }
   ],
   "volunteer": [

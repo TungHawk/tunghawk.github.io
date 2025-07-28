@@ -401,7 +401,7 @@ ninja.data = [{
             },},{id: "news-honor-to-be-awarded-the-labex-bézout-fellowship-for-the-dual-master-s-degree-at-université-gustave-eiffel",
           title: 'Honor to be awarded the Labex - Bézout fellowship for the dual Master’s...',
           description: "",
-          section: "News",},{id: "news-honor-to-be-awarded-a-phd-fellowship-from-3ia-côte-d-azur-to-work-at-cnrs",
+          section: "News",},{id: "news-honor-to-be-awarded-a-phd-fellowship-from-3ia-côte-d-azur-to-work-at-laboratoire-jean-alexandre-dieudonné-ljad-cnrs",
           title: 'Honor to be awarded a PhD fellowship from 3iA Côte d’Azur to work...',
           description: "",
           section: "News",},{id: "projects-project-1",

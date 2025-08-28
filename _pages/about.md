@@ -27,6 +27,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Data Scientist at [NewIT Services](https://i-new.it/), where I design and implement the Stock-Acquisition Management (SAM) model to drive precision and efficiency in optimizing supply-demand systems. Previously, I served as a research intern at Laboratoire d'Informatique Gaspard-Monge (LIGM), advancing research on Sinkhorn barycenter problems under supervision of Prof. Théo Lacombe.
+I am a first year PhD Student at Laboratoire Jean Alexandre Dieudonné (CNRS), under the supervision of Prof. Samuel Vaiter and Prof. Yassine Laguel. My research interest lies at the intersection of Optimization and Machine Learning, where I focus on integrating cutting-edge optimization theory with machine learning applications.
 
-My research interest lies at the intersection of Optimization and Machine Learning, where I focus on integrating cutting-edge optimization theory with machine learning applications to solve complex challenges.
+Previously, I was a Data Scientist at [NewIT Services](https://i-new.it/), where I designed and implemented the Stock-Acquisition Management (SAM) model to drive precision and efficiency in optimizing supply-demand systems. Before that, I served as a research intern at [Laboratoire d'Informatique Gaspard-Monge (LIGM)](https://siteigm.univ-mlv.fr/home/), advancing research on Sinkhorn barycenter problems under supervision of Prof. Théo Lacombe. Earlier, I worked as a research intern at [INSA Rennes](https://www.insa-rennes.fr/index.html) under the supervision of Prof. Mounir Haddou, Prof. Quang Huy Tran and Dr. Ibtihel Ben Gharbia with a focus on developing a novel time-adaptive approach to stiff Ordinary Differential Equations (ODEs).

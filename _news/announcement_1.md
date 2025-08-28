@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Honor to be awarded the [Labex - Bézout fellowship](https://labex-bezout.fr/masters-scholarships/) for the dual Master's degree at Université Gustave Eiffel.
+Honor to be awarded the [Labex - Bézout fellowship](https://labex-bezout.fr/masters-scholarships/) for the dual Master's degree at [Université Gustave Eiffel](https://www.univ-gustave-eiffel.fr/en/).

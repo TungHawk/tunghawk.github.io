@@ -1,18 +1,18 @@
 {
   "basics": {
     "name": "Thanh-Tung NGUYEN",
-    "label": "Data Scientist",
+    "label": "PhD student at LJAD (CNRS)",
     "image": "",
     "email": "tungnguyen1951999@gmail.com",
     "phone": "+84 938 721 033",
     "url": "https://tunghawk.github.io/",
-    "summary": "A Data Scientist with an interest in Optimization and Machine Learning",
+    "summary": "A PhD student with an interest in Optimization and Machine Learning",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
     },
     "profiles": [
       {

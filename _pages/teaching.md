@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: 
+description:
 nav: true
 nav_order: 6
 ---
@@ -12,6 +12,6 @@ nav_order: 6
 Organize your courses by years, topics, or universities, however you like! -->
 
 **Teaching assistant**, Université Côte d'Azur (2025 - 2028)
+
 - Subject 1
 - Subject 2
-

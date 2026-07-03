@@ -48,7 +48,10 @@
       "startDate": "2024-04-01",
       "endDate": "2024-08-30",
       "summary": "Revisit the Sinkhorn barycenter problems.",
-      "highlights": ["Identified discrepancies between the theoretical and practical aspects of the Debiased Sinkhorn barycenter method [H.Janati et al., Neurips2020].", "Proposed enhancements to improve the numerical efficiency."]
+      "highlights": [
+        "Identified discrepancies between the theoretical and practical aspects of the Debiased Sinkhorn barycenter method [H.Janati et al., Neurips2020].",
+        "Proposed enhancements to improve the numerical efficiency."
+      ]
     },
     {
       "name": "INSA Rennes",
@@ -82,7 +85,7 @@
       "startDate": "2025-09-01",
       "endDate": "2028-08-30",
       "score": "10",
-      "courses": ["Teaching assistant","Formal training with courses and scientific days"]
+      "courses": ["Teaching assistant", "Formal training with courses and scientific days"]
     },
     {
       "institution": "Université Gustave Eiffel",
@@ -253,18 +256,12 @@
     {
       "name": "Applied Mathematics",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Optimization",
-        "Statistics"
-      ]
+      "keywords": ["Optimization", "Statistics"]
     },
     {
       "name": "Machine Learning",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Safty Machine Learning",
-        "Federated Learning"
-      ]
+      "keywords": ["Safty Machine Learning", "Federated Learning"]
     }
   ],
   "references": [

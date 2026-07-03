@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD student at <a href='https://univ-cotedazur.fr/laboratoires/laboratoire-jean-alexandre-dieudonne-ljad-1'>LJAD (CNRS)</a>. 
+subtitle: PhD student at <a href='https://univ-cotedazur.fr/laboratoires/laboratoire-jean-alexandre-dieudonne-ljad-1'>LJAD (CNRS)</a>.
 
 profile:
   align: right

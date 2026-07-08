@@ -256,12 +256,12 @@
     {
       "name": "Applied Mathematics",
       "icon": "fa-solid fa-tag",
-      "keywords": ["Optimization", "Statistics"]
+      "keywords": ["Optimization", "Distributionally Robust Optimization"]
     },
     {
       "name": "Machine Learning",
       "icon": "fa-solid fa-tag",
-      "keywords": ["Safty Machine Learning", "Federated Learning"]
+      "keywords": ["Safe Machine Learning"]
     }
   ],
   "references": [

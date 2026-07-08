@@ -6,7 +6,7 @@
     "email": "tungnguyen1951999@gmail.com",
     "phone": "+84 938 721 033",
     "url": "https://tunghawk.github.io/",
-    "summary": "A PhD student with an interest in Optimization and Machine Learning",
+    "summary": "PhD student in Optimization and Machine Learning",
     "location": {
       "address": "",
       "postalCode": "",
@@ -24,7 +24,7 @@
   },
   "experience": [
     {
-      "name": "Centre National de la Recherche Scientifique (CNRS)",
+      "name": "3iA Côte d'Azur - Centre National de la Recherche Scientifique (CNRS)",
       "position": "Doctoral Research",
       "url": "https://www.cnrs.fr/en",
       "startDate": "2025-09-01",
@@ -77,15 +77,15 @@
   ],
   "education": [
     {
-      "institution": "3iA Côte d'Azur - Unversité Côte d'Azur",
+      "institution": "Unversité Côte d'Azur",
       "location": "Nice, France",
-      "url": "https://3ia.univ-cotedazur.eu/",
+      "url": "https://univ-cotedazur.fr",
       "area": "Applied Mathematics and Computer Science",
       "studyType": "Doctor of Philosophy",
       "startDate": "2025-09-01",
       "endDate": "2028-08-30",
       "score": "10",
-      "courses": ["Teaching assistant", "Formal training with courses and scientific days"]
+      "courses": ["Formal training with courses and scientific days"]
     },
     {
       "institution": "Université Gustave Eiffel",

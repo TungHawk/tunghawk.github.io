@@ -24,13 +24,15 @@
   },
   "experience": [
     {
-      "name": "3iA Côte d'Azur - Centre National de la Recherche Scientifique (CNRS)",
+      "name": "Centre National de la Recherche Scientifique (CNRS)",
       "position": "Doctoral Research",
       "url": "https://www.cnrs.fr/en",
       "startDate": "2025-09-01",
       "endDate": "2028-08-30",
-      "summary": "Ongoing...",
-      "highlights": [""]
+      "summary": "My research work focus on the optimization problem under uncertainty. In particular, it is organized around two main directions:",
+      "highlights": ["Design efficient optimization methods to minimize difficult risk functions.",
+      "Design data-adaptive formulations for optimization problem under uncertainty."
+      ]
     },
     {
       "name": "NewIT Services",
@@ -38,8 +40,8 @@
       "url": "https://i-new.it/",
       "startDate": "2025-03-01",
       "endDate": "2025-07-05",
-      "summary": "Conducted operations research.",
-      "highlights": ["Designed and implemented the Stock - Acquisition Management (SAM) model that helps to optimize supply - demand system."]
+      "summary": "Contributed to develop models for efficient supply - demand system",
+      "highlights": ["Designed and implemented the Stock - Acquisition Management (SAM) model."]
     },
     {
       "name": "Laboratoire d'Informatique Gaspard-Monge (LIGM)",
@@ -60,7 +62,7 @@
       "startDate": "2023-03-01",
       "endDate": "2023-06-30",
       "summary": "Adaptive method to solve stiff Ordinary Differential Equations (ODEs).",
-      "highlights": ["Created a novel adaptive time-step approach to solve stiff ODEs via optimization technique."]
+      "highlights": ["Designed a novel adaptive time-step approach to solve stiff ODEs via optimization technique."]
     }
   ],
   "volunteer": [
@@ -80,12 +82,11 @@
       "institution": "Unversité Côte d'Azur",
       "location": "Nice, France",
       "url": "https://univ-cotedazur.fr",
-      "area": "Applied Mathematics and Computer Science",
+      "area": "Applied Mathematics",
       "studyType": "Doctor of Philosophy",
       "startDate": "2025-09-01",
       "endDate": "2028-08-30",
-      "score": "10",
-      "courses": ["Formal training with courses and scientific days"]
+      "score": "10"
     },
     {
       "institution": "Université Gustave Eiffel",
@@ -95,8 +96,7 @@
       "studyType": "Dual Master's Degree",
       "startDate": "2023-09-06",
       "endDate": "2024-08-30",
-      "score": "10",
-      "courses": ["Grade: High honors"]
+      "score": "10"
     },
     {
       "institution": "Université de Rennes",
@@ -106,8 +106,7 @@
       "studyType": "Master's degree",
       "startDate": "2022-07-01",
       "endDate": "2023-06-30",
-      "score": "10",
-      "courses": ["Grade: Highest honors"]
+      "score": "10"
     },
     {
       "institution": "Ho Chi Minh City University of Education (HCMUE)",
@@ -117,8 +116,7 @@
       "studyType": "Bachelor degree",
       "startDate": "2017-08-01",
       "endDate": "2021-06-30",
-      "score": "10",
-      "courses": ["Grade: Highest honors"]
+      "score": "10"
     }
   ],
   "awards": [
@@ -140,20 +138,6 @@
       "title": "Second prize in the research competition for undergraduate students",
       "date": "2021-04-29",
       "awarder": "Mathematics and informatics department at Ho Chi Minh City University of Education",
-      "url": "",
-      "summary": ""
-    },
-    {
-      "title": "Merit scholarship for excellent students",
-      "date": "2021-04-15",
-      "awarder": "Mathematics and informatics department at Ho Chi Minh City University of Education",
-      "url": "",
-      "summary": ""
-    },
-    {
-      "title": "Gold medal in Ho Chi Minh City Mathematics Olympiad for high school students",
-      "date": "2017-04-15",
-      "awarder": "Department of Education and Training of Ho Chi Minh City",
       "url": "",
       "summary": ""
     }

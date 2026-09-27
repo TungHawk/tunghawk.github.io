@@ -30,8 +30,9 @@
       "startDate": "2025-09-01",
       "endDate": "2028-08-30",
       "summary": "My research work focus on the optimization problem under uncertainty. In particular, it is organized around two main directions:",
-      "highlights": ["Design efficient optimization methods to minimize difficult risk functions.",
-      "Design data-adaptive formulations for optimization problem under uncertainty."
+      "highlights": [
+        "Design efficient optimization methods to minimize difficult risk functions.",
+        "Design data-adaptive formulations for optimization problem under uncertainty."
       ]
     },
     {
